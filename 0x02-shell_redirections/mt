@@ -1,0 +1,6 @@
+#!/bin/bash
+vi 15-countthatword
+chmod u+x 15-countthatword
+git add .
+git commit -m "15-countthatword"
+git push
