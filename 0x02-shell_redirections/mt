@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 16-whatsnext
-chmod u+x 16-whatsnext
+vi 18-letteronly
+chmod u+x 18-letteronly
 git add .
-git commit -m  "16-whatsnext"
+git commit -m  "18-letteronly"
 git push
