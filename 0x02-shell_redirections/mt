@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 103-the_biggest_fan
-chmod u+x 103-the_biggest_fan
+vi 16-whatsnext
+chmod u+x 16-whatsnext
 git add .
-git commit -m  "103-the_biggest_fan"
+git commit -m  "16-whatsnext"
 git push
