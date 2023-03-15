@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 18-letteronly
-chmod u+x 18-letteronly
+vi 100-empty_casks
+chmod u+x 100-empty_casks
 git add .
-git commit -m  "18-letteronly"
+git commit -m  "100-empty_casks"
 git push
